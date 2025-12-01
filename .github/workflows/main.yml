@@ -44,5 +44,5 @@ jobs:
         with:
           databricks-host: ${{ env.DATABRICKS_HOST }}
           databricks-token: ${{ env.DATABRICKS_TOKEN }}
-          local-path: /home/runner/work/DataAnalytics/DataAnalytics/
+          local-path: /home/runner/work/pricing-dataanalytics/pricing-dataanalytics/
           remote-path: /Workspace/Users/lokesh.challa012_gmail.com#ext#@lokeshchalla012gmail.onmicrosoft.com
